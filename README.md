@@ -1,0 +1,2 @@
+# Platelet_Detection_and_Classification_Using_CNN_-_GAN_Based_Augmentation
+A deep learning approach for platelet classification using CNNs and GAN-based data augmentation. This repository includes dataset preprocessing, synthetic data generation, and transfer learning models like DenseNet, Inception, and VGG. WGAN-GP is used to enhance dataset diversity, improving platelet detection and classification accuracy.
